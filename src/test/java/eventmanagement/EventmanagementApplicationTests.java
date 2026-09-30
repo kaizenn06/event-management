@@ -9,5 +9,5 @@ class EventmanagementApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+ 
 }
